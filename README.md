@@ -1,1 +1,1 @@
-usage: java -jar wpwc.jar <url>
+usage: java -jar wpwc.jar URL
